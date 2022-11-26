@@ -1,4 +1,4 @@
-# GradientBoost_DT_SMOTE
+# GradientBoost_SMOTE
 
 This script uses SKLEARN to build a gradient boosted classifier for imbalanced datasets similar to the dataset.csv file.
 
